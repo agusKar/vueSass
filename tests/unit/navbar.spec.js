@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils';
-import NavBar from '../../src/components/NavBar.vue';
+import NavBar from '@/components/NavBar.vue';
 
 describe('NavBar working succesfully', () => {
   it('renders props passed correctly', () => {

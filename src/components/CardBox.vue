@@ -6,7 +6,7 @@
     <div class="card-body">
       <p>{{ cardMsg }}</p>
       <button>Click Me</button>
-    <a href="#" class="btn-info">click me</a>
+    <a href="/" class="btn-info">click me</a>
     </div>
   </div>
 </template>
